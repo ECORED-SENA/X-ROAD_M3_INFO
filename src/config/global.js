@@ -310,11 +310,11 @@ export const creditos = {
       cargo: 'Diseño web y Producción Audiovisual',
     },
     {
-      nombre: 'Luis Gabriel Urueta Alvarez',
+      nombre: 'Ricardo Alfonso González Vargas',
       cargo: 'Desarrollo Front-End',
     },
     {
-      nombre: 'Yuli Marcela Gómez Tarazona',
+      nombre: 'María Isabel Román Rueda ',
       cargo: 'Validación de diseño y contenido',
     },
     {
